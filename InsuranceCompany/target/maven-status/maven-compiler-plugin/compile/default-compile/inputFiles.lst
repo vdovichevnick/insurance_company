@@ -1,0 +1,16 @@
+/Users/ilyazenchenko/IdeaProjects/security-jwt-first/src/main/java/ru/zenchenko/security/redis/config/UserRedisRepository.java
+/Users/ilyazenchenko/IdeaProjects/security-jwt-first/src/main/java/ru/zenchenko/security/auth/RegisterRequest.java
+/Users/ilyazenchenko/IdeaProjects/security-jwt-first/src/main/java/ru/zenchenko/security/user/User.java
+/Users/ilyazenchenko/IdeaProjects/security-jwt-first/src/main/java/ru/zenchenko/security/auth/AuthenticationResponse.java
+/Users/ilyazenchenko/IdeaProjects/security-jwt-first/src/main/java/ru/zenchenko/security/config/JWTFilter.java
+/Users/ilyazenchenko/IdeaProjects/security-jwt-first/src/main/java/ru/zenchenko/security/config/AppConfiguration.java
+/Users/ilyazenchenko/IdeaProjects/security-jwt-first/src/main/java/ru/zenchenko/security/controller/TokenController.java
+/Users/ilyazenchenko/IdeaProjects/security-jwt-first/src/main/java/ru/zenchenko/security/auth/AuthenticationController.java
+/Users/ilyazenchenko/IdeaProjects/security-jwt-first/src/main/java/ru/zenchenko/security/SecurityApplication.java
+/Users/ilyazenchenko/IdeaProjects/security-jwt-first/src/main/java/ru/zenchenko/security/auth/AuthenticationRequest.java
+/Users/ilyazenchenko/IdeaProjects/security-jwt-first/src/main/java/ru/zenchenko/security/repositories/UserRepository.java
+/Users/ilyazenchenko/IdeaProjects/security-jwt-first/src/main/java/ru/zenchenko/security/user/Role.java
+/Users/ilyazenchenko/IdeaProjects/security-jwt-first/src/main/java/ru/zenchenko/security/config/JWTService.java
+/Users/ilyazenchenko/IdeaProjects/security-jwt-first/src/main/java/ru/zenchenko/security/redis/config/RedisConfig.java
+/Users/ilyazenchenko/IdeaProjects/security-jwt-first/src/main/java/ru/zenchenko/security/auth/AuthenticationService.java
+/Users/ilyazenchenko/IdeaProjects/security-jwt-first/src/main/java/ru/zenchenko/security/config/SecurityConfiguration.java
